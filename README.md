@@ -1,12 +1,12 @@
-# _{Application Name}_
+# _My First Webpage_
 
 #### _{my first webpage}, {8/12/19}_
 
-#### By _**Jennifer Fairchild**_
+#### By _**Jennifer Fairchild & Dustin Effinger**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{This is our first attempt at an HTML webpage. The page contains several blocks; a title, head, body, headers, and an unordered list.}_
 
 ## Setup/Installation Requirements
 
